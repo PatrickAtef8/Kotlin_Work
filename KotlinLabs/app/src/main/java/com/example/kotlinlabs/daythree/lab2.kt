@@ -22,6 +22,8 @@ class ByThrees : Number {
 fun main() {
     val numberRef: Number = ByThrees()
 
+
+
     println(numberRef.getNext())
     println(numberRef.getNext())
     println(numberRef.getNext())
